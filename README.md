@@ -44,11 +44,11 @@ Usage
 Project Structure
 
 
-age-calculator/
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
+age-calculator
+ index.html
+ styles.css
+ script.js
+ README.md
 
 
 index.html: Contains the HTML structure of the application.
